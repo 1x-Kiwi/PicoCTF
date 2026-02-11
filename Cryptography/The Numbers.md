@@ -22,3 +22,6 @@
 
 # How to reconcile this type of 'encryption'
 A very simple way to recognize this type of encryption is to simply look at the numbers. If the range is between 1-26 you can safely assume it is using this method.
+
+
+https://media1.tenor.com/m/mfWk9rfo51oAAAAC/what-do-they-mean-random.gif
