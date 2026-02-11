@@ -17,6 +17,7 @@ $$
 | Input  | ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz |
 | ------ | ---------------------------------------------------- |
 | Output | NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm |
+
 Notice how in the input "ABCD" are as normal but in the output they are "NOPQ" as the letters have shifted 13 characters in the Latin alphabet.
 
 # How to solve the 'Mod 26' CTF
